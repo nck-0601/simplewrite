@@ -1,0 +1,34 @@
+*{
+    font-family: -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+    /* text-align: center; */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
+.j-start{
+    justify-content: flex-start;
+}
+.j-end{
+    justify-content: flex-end;
+}
+.j-s{
+    /* 平均分部两边无间隔 */
+    justify-content: space-between;
+}
+.j-c{
+    justify-content:center
+}
+.a-c{
+    align-items: center
+}
+.float-l{
+    float: left;
+}
+.float-r{
+    float: right;
+}

@@ -1,0 +1,113 @@
+.logo{
+    position: absolute;
+    left: 0;
+    width: 100px;
+    /* padding-right: 130px; */
+}
+  input{
+    width: 180px;
+    /* width: 270px*/
+    height: 35px;
+    color: #A0A0A0;
+    padding-left: 20px;
+    background-color: transparent;
+    border: 0;
+    transition: 0.8s;
+  }
+  .focus{
+    width: 270px
+  }
+  .border{
+    margin-bottom: 10px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .header{
+    position: relative;
+    width: 1440px;
+    margin: 0 auto;
+  }
+  .menu1{
+    margin: 0 auto;
+    width: 960px;
+  }
+  .menu1 .img{
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+  }
+  .sy{
+    padding: 17px 15px;
+    font-size: 17px;
+    line-height: 20px;
+    color: #ea6f5a;
+  }
+  .headerbtn{
+    position: absolute;
+    top: 12px;
+    right: 0;
+  }
+  .download{
+    margin-right: 10px;
+    padding: 20px 15px;
+    font-size: 17px;
+    line-height: 20px;
+    color: #333;
+  }
+  .download:hover{
+    background-color: #f5f5f5;
+  }
+  .searchicon{
+    width: 30px;
+    height: 30px;
+    padding-right: 5px;
+  }
+  .search{
+    height: 35px;
+    margin-left: 15px;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    background-color: #eee;
+  }
+  .Aa{
+    width: 30px;
+    padding: 17px 10px;
+  }
+  .login{
+    margin: 0 6px 0 10px;
+    padding: 6px 12px;
+    font-size: 15px;
+    color: #969696;
+  }
+  .pan{
+    width: 19px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 15px;
+  }
+  .xiewenzhang{
+    padding-left: 3px;
+    float: left;
+  }
+  .zc{
+    margin: 0 5px 0 15px;
+    text-align: center;
+    line-height: 38px;
+    width: 80px;
+    height: 38px;
+    border-radius: 20px;
+    border: 1px solid #ea6f5a;
+    color: #ea6f5a;
+  }
+  .zc:hover{
+    background-color: rgba(236,97,73,.05);
+  }
+  .write{
+    width: 100px;
+    height: 40px;
+    text-align: right;
+    line-height: 40px;
+    color: #fff;
+    background-color: #ea6f5a;
+    border-radius: 20px;
+    margin: 0 12px;
+  }
